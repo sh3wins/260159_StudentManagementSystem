@@ -26,7 +26,7 @@ function About() {
 
       <h2 className="h4 mt-4">Developer</h2>
       <p className="mb-1">
-        <strong>Name:</strong> YOUR FULL NAME
+        <strong>Name:</strong> AURELIA MWANGI
       </p>
       <p>
         <strong>Student ID:</strong> 260159
